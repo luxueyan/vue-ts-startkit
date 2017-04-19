@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="5.7">/Users/luxueyan/mine/github/kt-op-pano-frontend/src/App.vue
+[31mERROR: 2:11 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 3:14 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 8:14 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 18:13[39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 2:16 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:2  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 6:2  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 5:4  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 4:17 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 4:18 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 3:33 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:13 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:14 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:18 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:2 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:12[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:13[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:22[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 20:7 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 20:8 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 20:48[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 20:49[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 21:15[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 21:16[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 21:10[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 21:11[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 22:16[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 22:17[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 22:11[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 22:12[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 22:7 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 22:8 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 23:7 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 23:8 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 25:9 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 25:10[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 2:11 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 3:14 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 24:9 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+</checkstyle>

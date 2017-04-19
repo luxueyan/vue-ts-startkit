@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="5.7">/Users/luxueyan/mine/github/kt-op-pano-frontend/src/components/Hello.vue
+[31mERROR: 2:14  [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 6:19  [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 6:46  [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 7:19  [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 7:52  [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 8:19  [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 8:56  [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 9:19  [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 9:54  [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 11:19 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 11:70 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 15:19 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 15:53 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 16:19 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 16:51 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 17:19 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 17:57 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 18:19 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 18:65 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 23:14 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 33:10 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 34:13 [39m  [90mquotemark [39m  [33m" should be '[39m
+[31mERROR: 2:21  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 4:8   [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 4:9   [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 4:6   [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 5:8   [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 5:6   [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 4:24  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 4:25  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 6:45  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 6:46  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 6:54  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 6:55  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 6:72  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 6:64  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 6:65  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 7:51  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 7:52  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 7:74  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 7:66  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 7:67  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 7:60  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 7:61  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:55  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:56  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:64  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:65  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:84  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:76  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:77  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 9:53  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 9:54  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 9:78  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 9:70  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 9:71  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 9:62  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 9:63  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 11:69 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 11:70 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 11:78 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 11:79 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 14:8  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 14:6  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 13:18 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 13:19 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 13:8  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 13:9  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 13:6  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 11:109[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 11:101[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 11:102[39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 15:18 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 15:19 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 15:52 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 15:53 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 15:80 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 15:72 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 15:73 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 15:61 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 15:62 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 15:65 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 15:66 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 16:50 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 16:51 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 16:72 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 16:64 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 16:65 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 16:59 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 16:60 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 17:56 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 17:57 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 17:84 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 17:76 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 17:77 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 17:65 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 17:66 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 17:69 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 17:70 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:64 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:65 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 23:2  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 21:2  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 20:4  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:93 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:85 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:86 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:73 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:74 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:81 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:82 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 23:13 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 23:14 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 23:18 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 33:2  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 33:67 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 34:29 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 37:7  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 37:8  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 41:13 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 41:14 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 41:7  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 41:8  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 46:18 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 46:19 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 2:14  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 6:19  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 7:19  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 8:19  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 9:19  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 11:19 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 16:19 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 17:19 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 18:19 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 34:13 [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+[31mERROR: 51:9  [39m  [90mwhitespace[39m  [33mmissing whitespace[39m
+</checkstyle>
