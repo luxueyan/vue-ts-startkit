@@ -1,5 +1,7 @@
 import Vue from 'vue'
-import Component from 'vue-class-component'
+import {
+  Component
+} from 'vue-property-decorator'
 import './index.postcss'
 const template: Function = require < Function > ('./index.pug')
 
@@ -12,3 +14,4 @@ export default class Demo extends Vue {
     return 'hello typescript vue'
   }
 }
+

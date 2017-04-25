@@ -47,19 +47,6 @@ exports.cssLoaders = function(options) {
   return {
     css: generateLoaders(),
     postcss: generateLoaders(),
-    /*, { // 使用postcssrc.js中的配置
-      plugins: function() {
-        return [require('postcss-salad')({
-          browsers: ['ie > 8', 'last 2 version'],
-          features: {
-            bem: false, //pass boolean false can disable the plugin
-            inlineSvg: {
-              path: 'src/svgs'
-            }
-          }
-        })]
-      }
-    })*/
     less: generateLoaders('less'),
     sass: generateLoaders('sass', { indentedSyntax: true }),
     scss: generateLoaders('sass'),
@@ -91,7 +78,6 @@ exports.styleLoaders = function(options) {
       } else {
         loader.push({ loader: 'postcss-loader' }) // postcss 单独处理
       }
-      console.log(isPreProcesser, extension, loader)
     }
 
     output.push({
