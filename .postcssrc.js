@@ -5,7 +5,7 @@ module.exports = {
   plugins: {
     // to edit target browsers: use 'browserlist' field in package.json
     // 'autoprefixer': {},
-    postcss - salad: {
+    'postcss-salad': {
       browsers: [
         '> 1%',
         'last 5 versions',
@@ -23,11 +23,7 @@ module.exports = {
         modifier: '_'
       },
       shortcuts: {
-        utility: 'util',
-        component: 'c',
-        modifier: 'm',
-        descendent: 'd',
-        when: 'w'
+        utility: 'util'
       }
     }
   }
