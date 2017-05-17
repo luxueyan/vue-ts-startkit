@@ -1,7 +1,7 @@
 // https://github.com/michael-ciniawsky/postcss-load-config
 module.exports = {
   parser: 'sugarss',
-  map: false,
+  map: 'inline',
   plugins: {
     // to edit target browsers: use 'browserlist' field in package.json
     // 'autoprefixer': {},
@@ -12,18 +12,20 @@ module.exports = {
         'not ie <= 8'
       ],
       features: {
-        bem: true, //pass boolean false can disable the plugin
+        bem: {
+          shortcuts: {
+            component: 'b',
+            modifier: 'm',
+            descendent: 'e'
+          },
+          separators: {
+            descendent: '__',
+            modifier: '--'
+          }
+        },
         inlineSvg: {
-          'path': 'src/svgs'
+          path: 'src/svgs'
         }
-      },
-      separators: {
-        namespace: '--',
-        descendent: '__',
-        modifier: '_'
-      },
-      shortcuts: {
-        utility: 'util'
       }
     }
   }
