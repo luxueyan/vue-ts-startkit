@@ -3,7 +3,7 @@ import {
   Component
 } from 'vue-property-decorator'
 import './index.postcss'
-const template: Function = require < Function > ('./index.pug')
+const template: Function = require<Function>('./index.pug')
 
 @Component({
   name: 'Demo',
